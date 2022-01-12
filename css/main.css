@@ -1,0 +1,28 @@
+body {
+  background-color: #ffd845;
+}
+.container {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.main__logo {
+  width: 350px;
+  height: 150px;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+}
+.btn {
+  width: 25%;
+  height: -50px;
+}
+
+.pokemons__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
